@@ -1,2 +1,2 @@
-# SussyMilkSeniorDesign
-Senior design project for Sussy Milk
+# SeniorDesign
+Senior design project for Alex Mills, Liz Tremblay, Jash Gada
