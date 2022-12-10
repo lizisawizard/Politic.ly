@@ -39,3 +39,10 @@ The user stories along with design diagrams with increasing level of complexity:
 - [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/biography.md)
 - [Liz Tremblay](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Liz/bio.md)
 - [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/biography.md)
+
+# Budget 
+	|-----------------|--------|----------------------------------|
+	| Item            | Cost   | Description                      |
+	|-----------------|--------|----------------------------------|
+	| Domain          | 100    | [park.io](park.io)               |
+	| AWS             | 50     |                                  |
