@@ -8,9 +8,6 @@
 - [Design](#design)
 - [Self Assessment Essays](#self-assessment-essays)
 - [Professional Biographies](#professional-biographies)
-- [Budget](#budget)
-- [Appendix](#appendix)
-- [Fall Hours:](#fall-hours)
 
 # Politic.ly
 Team name: 2%
@@ -30,13 +27,11 @@ The user stories along with design diagrams with increasing level of complexity:
 2. [Timeline](https://docs.google.com/spreadsheets/d/1T2ENjC0N1yWWrESUSFwFy1tjItJfxxGDd_byjLiZEd0/edit#gid=0)
 3. [Effort Matrix](https://docs.google.com/spreadsheets/d/1T2ENjC0N1yWWrESUSFwFy1tjItJfxxGDd_byjLiZEd0/edit#gid=675574539)
 
-
 # PPT Slideshow
 [Presentation](https://docs.google.com/presentation/d/1DhGG4NNpBJisvetZcx4SnlfzfdLJR-6Q_GrLZRRjacg/edit#slide=id.g17c061644c4_0_11)
 
-# Design
-[Figma Designs](https://www.figma.com/file/2Y3q7n4LyJ6GE03pOQvDiz/Senior-Design?node-id=0%3A1&t=CiAfuIEdTAu2Ue4Y-1)
-
+# Design 
+[Figma Mock-ups](https://www.figma.com/file/2Y3q7n4LyJ6GE03pOQvDiz/Senior-Design?node-id=0%3A1&t=CiAfuIEdTAu2Ue4Y-1)
 
 # Self Assessment Essays
 - [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/Assessment%20Essay.pdf)
@@ -47,25 +42,3 @@ The user stories along with design diagrams with increasing level of complexity:
 - [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/biography.md)
 - [Liz Tremblay](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Liz/bio.md)
 - [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/biography.md)
-
-# Budget
-| Item | Cost | Description |
-| :-----: | :-----: | :-----: |
-|Domain|$100|park.io|
-|AWS|$50|Hosting the backend and frontend|
-
-# Appendix
-- Link to campaign service repo: https://github.com/alexjmills/campaignService 
-- Tech stack research notes: Tech Stack Research
-
-# Fall Hours:
-- Repository set up and basic endpoint implementation (Alex)
-- Learn ExpressJs (Alex, Jash, Liz)
-- Learn MongoBD (Alex, Jash, Liz)
-- Design mock ups for website on Figma (Liz)
-- Learn React Native and setting up a development environment for mobile testing (Jash)
-- Write user stories and use cases for the application (Alex)
-- Research possible candidates for user interviews (Liz Alex and Jash)
-- Come up with user interviews questions (Liz and Alex)
-
-
