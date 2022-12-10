@@ -26,9 +26,11 @@ The user stories along with design diagrams with increasing level of complexity:
 2. [Timeline](https://docs.google.com/spreadsheets/d/1T2ENjC0N1yWWrESUSFwFy1tjItJfxxGDd_byjLiZEd0/edit#gid=0)
 3. [Effort Matrix](https://docs.google.com/spreadsheets/d/1T2ENjC0N1yWWrESUSFwFy1tjItJfxxGDd_byjLiZEd0/edit#gid=675574539)
 
-
 # PPT Slideshow
 [Presentation](https://docs.google.com/presentation/d/1DhGG4NNpBJisvetZcx4SnlfzfdLJR-6Q_GrLZRRjacg/edit#slide=id.g17c061644c4_0_11)
+
+# Design 
+[Figma Mock-ups](https://www.figma.com/file/2Y3q7n4LyJ6GE03pOQvDiz/Senior-Design?node-id=0%3A1&t=CiAfuIEdTAu2Ue4Y-1)
 
 # Self Assessment Essays
 - [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/Assessment%20Essay.pdf)
