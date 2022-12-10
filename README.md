@@ -8,6 +8,7 @@
 - [Design](#design)
 - [Self Assessment Essays](#self-assessment-essays)
 - [Professional Biographies](#professional-biographies)
+- [Budget](#budget)
 - [Appendix](#appendix)
 - [Fall Hours:](#fall-hours)
 
@@ -45,6 +46,7 @@ The user stories along with design diagrams with increasing level of complexity:
 - [Liz Tremblay](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Liz/bio.md)
 - [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/biography.md)
 
+# Budget
 
 |Item| Cost | Description |
 |:-----:|:-----:|:-------:|
@@ -52,8 +54,8 @@ The user stories along with design diagrams with increasing level of complexity:
 | AWS | $50 | hosting backend and frontend|
 
 # Appendix
-- Link to campaign service repo: https://github.com/alexjmills/campaignService 
-- Tech stack research notes: Tech Stack Research
+- Link to campaign service repo: [BE Repo](https://github.com/alexjmills/campaignService) 
+- Tech stack research notes: [Tech Stack Research](https://docs.google.com/document/d/1IqSHPhsfbmGurX1CxYS0GweudwTg9roSp20yxd3N3oE/edit?usp=share_link)
 
 # Fall Hours:
 - Repository set up and basic endpoint implementation (Alex)
