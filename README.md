@@ -41,8 +41,8 @@ The user stories along with design diagrams with increasing level of complexity:
 - [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/biography.md)
 
 # Budget 
-	|-----------------|--------|----------------------------------|
-	| Item            | Cost   | Description                      |
-	|-----------------|--------|----------------------------------|
-	| Domain          | 100    | [park.io](park.io)               |
-	| AWS             | 50     |                                  |
+|-----------------|--------|----------------------------------|
+| Item            | Cost   | Description                      |
+|-----------------|--------|----------------------------------|
+| Domain          | 100    | [park.io](park.io)               |
+| AWS             | 50     |                                  |
