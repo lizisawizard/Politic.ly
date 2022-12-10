@@ -1,4 +1,5 @@
-#Table of Contents
+# Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Politic.ly](#politicly)
 - [Project Description](#project-description)
 - [User Stories and Design Diagrams](#user-stories-and-design-diagrams)
