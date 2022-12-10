@@ -8,6 +8,8 @@
 - [Design](#design)
 - [Self Assessment Essays](#self-assessment-essays)
 - [Professional Biographies](#professional-biographies)
+- [Appendix](#appendix)
+- [Fall Hours:](#fall-hours)
 
 # Politic.ly
 Team name: 2%
@@ -42,3 +44,25 @@ The user stories along with design diagrams with increasing level of complexity:
 - [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/biography.md)
 - [Liz Tremblay](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Liz/bio.md)
 - [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/biography.md)
+
+
+|Item| Cost | Description |
+|:-----:|:-----:|:-------:|
+| Domain | $100 | park.io|
+| AWS | $50 | hosting backend and frontend|
+
+# Appendix
+- Link to campaign service repo: https://github.com/alexjmills/campaignService 
+- Tech stack research notes: Tech Stack Research
+
+# Fall Hours:
+- Repository set up and basic endpoint implementation (Alex)
+- Learn ExpressJs and complete tutorials (Alex, Jash, Liz)
+- Learn MongoBD and complete tutorials (Alex, Jash, Liz)
+- Design mock ups for website on Figma (Liz)
+- Learn React Native and setting up a development environment for mobile testing (Jash)
+- Write user stories and use cases for the application (Alex)
+- Research possible candidates for user interviews (Liz Alex and Jash)
+- Come up with user interviews questions (Liz and Alex)
+- Communicate with advisor (Jash)
+- Create UI designs and branding (Liz)
