@@ -1,18 +1,18 @@
 ### Table of Contents
 - [Politic.ly](#politicly)
-- [Project Description](#project-description)
-- [User Stories and Specifications](#user-stories-and-specifications)
-- [User Manual](#user-manual)
-- [Test Plan](#test-plan)
-- [Project Tasks and Timeline](#project-tasks-and-timeline)
-- [Slide Decks](#slide-decks)
-- [Expo Poster](#expo-poster)
-- [Self Assessment Essays](#self-assessment-essays)
-- [Professional Biographies](#professional-biographies)
-- [Budget](#budget)
-- [Appendix](#appendix)
-- [Fall Hours](#fall-hours)
-- [Spring Hours](#spring-hours)
+  - [Project Description](#project-description)
+  - [User Stories and Specifications](#user-stories-and-specifications)
+  - [User Manual](#user-manual)
+  - [Test Plan](#test-plan)
+  - [Project Tasks and Timeline](#project-tasks-and-timeline)
+  - [Slide Decks](#slide-decks)
+  - [Expo Poster](#expo-poster)
+  - [Self Assessment Essays](#self-assessment-essays)
+  - [Professional Biographies](#professional-biographies)
+  - [Budget](#budget)
+  - [Appendix](#appendix)
+  - [Fall Hours:](#fall-hours)
+  - [Spring Hours](#spring-hours)
 
 # Politic.ly
 Team name: 2%
@@ -77,8 +77,9 @@ Manual can be found in our repo's README.md [here](https://github.com/politic-ly
 
 |Item| Cost | Description |
 |:-----:|:-----:|:-------:|
-| Domain | $100 | park.io|
-| AWS | $50 | hosting backend and frontend|
+| Domain | $10 | namecheap.io|
+| Netlify | $19 | hosting frontend|
+| Railway | $5 | hosting backend|
 
 ## Appendix
 - Link to campaign service (backend) repo: [BE Repo](https://github.com/alexjmills/campaignService) 
