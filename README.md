@@ -11,7 +11,7 @@
   - [Professional Biographies](#professional-biographies)
   - [Budget](#budget)
   - [Appendix](#appendix)
-  - [Fall Hours:](#fall-hours)
+  - [Fall Hours](#fall-hours)
   - [Spring Hours](#spring-hours)
 
 # Politic.ly
