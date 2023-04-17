@@ -15,10 +15,10 @@
 - [Spring Hours](#spring-hours)
 
 # Politic.ly
-Team name: 2%
-Team members: Alex Mills, Liz Tremblay, Jash Gada
-Advisor: Dr. Nan Niu
-<br>
+Team name: 2% <br>
+Team members: Alex Mills, Liz Tremblay, Jash Gada <br>
+Advisor: Dr. Nan Niu <br>
+
 A web/mobile app designed to bring members of the local community together and educate users about their local politics and encourage them to take initiatives to bring positive change in their communities. This app aims to empower young adults in the society to take action and shed light to the importance of local policies on a community’s betterment.
 
 ## Project Description
@@ -64,9 +64,9 @@ Manual can be found in our repo's README.md [here](https://github.com/politic-ly
 - [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/assignment3.md)
 
 **Spring:**
-- [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/Assessment%20Essay.pdf)
-- [Liz Tremblay]()
-- [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/assignment3.md)
+- [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/spring-reflection.md)
+- [Liz Tremblay](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Liz/final-self-reflection.md)
+- [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/sprint-assessment.md)
 
 ## Professional Biographies
 - [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/biography.md)
@@ -97,4 +97,17 @@ Manual can be found in our repo's README.md [here](https://github.com/politic-ly
 - Create UI designs and branding (Liz)
 
 ## Spring Hours
-- 
+| Name | Task | Hours | Description |
+|:-------:|:----------:|:---:|:--------------:|
+| Jash | Establish database | 10 | Includes setting up the MongoDB database, hooking it up to the frontend, and adding data to said database |
+| Jash | Host site on Netlify | 4 | Includes buying the domain, setting up Netlify account, and CI/CD testing |
+| Jash | Update Dr. Niu | 2 | Includes sending advisor Dr. Niu an email every other week updating him on team progress |
+| Jash | Frontend development | 24 | Includes coding the frontend - specifically worked on the overall skeleton & create initiative, event, and announcement forms |
+| Jash | CampaignService | 8 | Includes setting up the backend including setting up the Google SSO and writing/verifying API calls for changes to the database |
+| Jash | User interviews | 2 | Includes leading user interviews |
+| Liz | Design Application | 20 | Includes creating designs for whole applications from branding to individual pages |
+| Liz | Project Management | 1 | Includes making and managing Asana board, setting up team meetings, detailing tickets |
+| Liz | Frontend development | 27 | Includes coding individual pages like the Account, News, & Explore Page and major components like the Nav bar and initiative card |
+| Alex | Frontend development | 40 | Includes creating designs for whole applications from branding to individual pages |
+| Alex | User interviews | 4 | Includes leading and organizing user interviews |
+| All | Team meetings | 20 | Weekly 2 hours meetings (over 10 week period) to talk logisitics, updates, and collaborative work |
