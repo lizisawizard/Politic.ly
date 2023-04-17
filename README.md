@@ -3,6 +3,8 @@
 - [Politic.ly](#politicly)
 - [Project Description](#project-description)
 - [User Stories and Design Diagrams](#user-stories-and-design-diagrams)
+- [User Interface](#user-interface)
+- [Test Plan](#test-plan)
 - [Project Tasks and Timeline](#project-tasks-and-timeline)
 - [PPT Slideshow](#ppt-slideshow)
 - [Design](#design)
@@ -24,6 +26,20 @@ This project aims to bring an average American community closer and help create 
 
 # User Stories and Design Diagrams
 The user stories along with design diagrams with increasing level of complexity: [User Stories](https://github.com/lizisawizard/SeniorDesignProject/blob/b828a3709a00e8fdffc3f31271f59836609a18d6/Homework%20Assignments/user_stories.md)
+
+# User Interface
+[Figma Designs](https://www.figma.com/file/2Y3q7n4LyJ6GE03pOQvDiz/Senior-Design)
+1. Users can view initiatives occurring in their area both biased and unbiased based on their interests
+2. Users can favorite/follow initiatives their interested in to reference for later and get updates on
+3. Users can view news articles from stations in their area
+4. Users can see who organizes and volunteers with an initiative
+5. Users can create their own initiatives
+6. Users can make announcements and events connected to their initiatives
+7. Users can change their location and information 
+8. Users can see politician interests and info on the app
+
+# Test Plan
+[Test plan can be found here](https://github.com/lizisawizard/SeniorDesignProject/blob/main/Homework%20Assignments/TestPlan.md))
 
 # Project Tasks and Timeline
 1. [Task List](https://github.com/lizisawizard/SeniorDesignProject/blob/main/Homework%20Assignments/Tasklist.md)
