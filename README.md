@@ -50,9 +50,8 @@ Manual can be found in our repo's README.md [here](https://github.com/politic-ly
 2. [Timeline](https://docs.google.com/spreadsheets/d/1T2ENjC0N1yWWrESUSFwFy1tjItJfxxGDd_byjLiZEd0/edit#gid=0)
 3. [Effort Matrix](https://docs.google.com/spreadsheets/d/1T2ENjC0N1yWWrESUSFwFy1tjItJfxxGDd_byjLiZEd0/edit#gid=675574539)
 
-## Slide Decks
-[Fall Presentation](https://docs.google.com/presentation/d/1DhGG4NNpBJisvetZcx4SnlfzfdLJR-6Q_GrLZRRjacg/edit#slide=id.g17c061644c4_0_11)
-[Spring Presentation] ()
+## Slide Deck
+[Presentation](https://docs.google.com/presentation/d/1DhGG4NNpBJisvetZcx4SnlfzfdLJR-6Q_GrLZRRjacg/edit#slide=id.g17c061644c4_0_11)
 
 ## Expo Poster
 [Poster Design](https://github.com/politic-ly/frontend)
