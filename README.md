@@ -108,6 +108,7 @@ Manual can be found in our repo's README.md [here](https://github.com/politic-ly
 | Liz | Design Application | 20 | Includes creating designs for whole applications from branding to individual pages |
 | Liz | Project Management | 1 | Includes making and managing Asana board, setting up team meetings, detailing tickets |
 | Liz | Frontend development | 27 | Includes coding individual pages like the Account, News, & Explore Page and major components like the Nav bar and initiative card |
-| Alex | Frontend development | 40 | Includes creating designs for whole applications from branding to individual pages |
+| Alex | Frontend development | 35 | Includes creating designs for whole applications from branding to individual pages |
 | Alex | User interviews | 4 | Includes leading and organizing user interviews |
+| Alex | Backend Setup | 10 | Includes setting up MongoDB Atlas and Express.js |
 | All | Team meetings | 20 | Weekly 2 hours meetings (over 10 week period) to talk logisitics, updates, and collaborative work |
