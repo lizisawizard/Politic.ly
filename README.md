@@ -7,7 +7,6 @@
 - [Test Plan](#test-plan)
 - [Project Tasks and Timeline](#project-tasks-and-timeline)
 - [PPT Slideshow](#ppt-slideshow)
-- [Design](#design)
 - [Self Assessment Essays](#self-assessment-essays)
 - [Professional Biographies](#professional-biographies)
 - [Budget](#budget)
@@ -27,7 +26,7 @@ This project aims to bring an average American community closer and help create 
 # User Stories and Design Diagrams
 The user stories along with design diagrams with increasing level of complexity: [User Stories](https://github.com/lizisawizard/SeniorDesignProject/blob/b828a3709a00e8fdffc3f31271f59836609a18d6/Homework%20Assignments/user_stories.md)
 
-# User Interface
+# User Interface Specifications
 [Figma Designs](https://www.figma.com/file/2Y3q7n4LyJ6GE03pOQvDiz/Senior-Design)
 1. Users can view initiatives occurring in their area both biased and unbiased based on their interests
 2. Users can favorite/follow initiatives their interested in to reference for later and get updates on
@@ -38,23 +37,30 @@ The user stories along with design diagrams with increasing level of complexity:
 7. Users can change their location and information 
 8. Users can see politician interests and info on the app
 
+# User Manual
+Manual can be found in our repo's README.md [here](https://github.com/politic-ly/frontend#readme)
+
 # Test Plan
-[Test plan can be found here](https://github.com/lizisawizard/SeniorDesignProject/blob/main/Homework%20Assignments/TestPlan.md))
+[Test plan can be found here](https://github.com/lizisawizard/SeniorDesignProject/blob/main/Homework%20Assignments/TestPlan.md)
 
 # Project Tasks and Timeline
 1. [Task List](https://github.com/lizisawizard/SeniorDesignProject/blob/main/Homework%20Assignments/Tasklist.md)
 2. [Timeline](https://docs.google.com/spreadsheets/d/1T2ENjC0N1yWWrESUSFwFy1tjItJfxxGDd_byjLiZEd0/edit#gid=0)
 3. [Effort Matrix](https://docs.google.com/spreadsheets/d/1T2ENjC0N1yWWrESUSFwFy1tjItJfxxGDd_byjLiZEd0/edit#gid=675574539)
 
-# PPT Slideshow
-[Presentation](https://docs.google.com/presentation/d/1DhGG4NNpBJisvetZcx4SnlfzfdLJR-6Q_GrLZRRjacg/edit#slide=id.g17c061644c4_0_11)
-
-# Design 
-[Figma Mock-ups](https://www.figma.com/file/2Y3q7n4LyJ6GE03pOQvDiz/Senior-Design?node-id=0%3A1&t=CiAfuIEdTAu2Ue4Y-1)
+# Slide Decks
+[Fall Presentation](https://docs.google.com/presentation/d/1DhGG4NNpBJisvetZcx4SnlfzfdLJR-6Q_GrLZRRjacg/edit#slide=id.g17c061644c4_0_11)
+[Spring Presentation] ()
 
 # Self Assessment Essays
+Fall:
 - [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/Assessment%20Essay.pdf)
 - [Liz Tremblay](https://github.com/lizisawizard/Politicially/blob/main/Homework%20Assignments/Liz/assignment3.md)
+- [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/assignment3.md)
+
+Spring:
+- [Alex Mills](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Alex/Assessment%20Essay.pdf)
+- [Liz Tremblay]()
 - [Jash Gada](https://github.com/lizisawizard/Politic.ly/blob/main/Homework%20Assignments/Jash/assignment3.md)
 
 # Professional Biographies
@@ -70,7 +76,7 @@ The user stories along with design diagrams with increasing level of complexity:
 | AWS | $50 | hosting backend and frontend|
 
 # Appendix
-- Link to campaign service repo: [BE Repo](https://github.com/alexjmills/campaignService) 
+- Link to campaign service (backend) repo: [BE Repo](https://github.com/alexjmills/campaignService) 
 - Tech stack research notes: [Tech Stack Research](https://docs.google.com/document/d/1IqSHPhsfbmGurX1CxYS0GweudwTg9roSp20yxd3N3oE/edit?usp=share_link)
 
 # Fall Hours:
@@ -84,3 +90,6 @@ The user stories along with design diagrams with increasing level of complexity:
 - Come up with user interviews questions (Liz and Alex)
 - Communicate with advisor (Jash)
 - Create UI designs and branding (Liz)
+
+# Spring Hours
+- 
