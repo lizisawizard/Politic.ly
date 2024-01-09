@@ -19,8 +19,7 @@ Team name: 2% <br>
 Team members: Alex Mills, Liz Tremblay, Jash Gada <br>
 Advisor: Dr. Nan Niu <br>
 Prod Site: [politicly.app](https://www.politicly.app)<br>
-Frontend: [Repo](https://github.com/politic-ly/frontend)<br>
-Backend: [Repo](https://github.com/politic-ly/campaignService)<br>
+Code: [Frontend](https://github.com/politic-ly/frontend) & [Backend](https://github.com/politic-ly/campaignService)<br>
 
 A web/mobile app designed to bring members of the local community together and educate users about their local politics and encourage them to take initiatives to bring positive change in their communities. This app aims to empower young adults in the society to take action and shed light to the importance of local policies on a community’s betterment.
 
